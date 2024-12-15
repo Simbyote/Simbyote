@@ -17,7 +17,7 @@ slight experience in management roles.
 ### Circuit Analyzer
 I am currently developing a circuit analyzer—a simulation program aimed at boosting my coding organization skills, exploring 
 various data structures and algorithms, and deepening my understanding of circuits and their components. This project emphasizes 
-my knowledge in calculus and algebra.
+my knowledge in mathematics and problem solving
 
 [GitHub Repository](https://github.com/Simbyote/Circuit-Analyzer-Project)
 
