@@ -1,34 +1,27 @@
 # Simbyote
 
 ## About Me
-Hello! I am Simbyote, also known as Mike Orduna. I am a university student aspiring to become an embedded systems engineer. 
-My journey in computer engineering has equipped me with foundational knowledge in calculus, circuits, and digital logics. 
-I am proficient in C++ and am currently expanding my skills in C and Python. With over 8 years of experience in the customer 
-service industry, I have developed strong soft skills such as communication, teamwork, organization, time management, and 
-slight experience in management roles.
+Hello! I am Simbyote, also known as Mike Orduna. I am a senior in Texas State University and am aspiring embedded engineer. I have been
+During my time at Texas State, I have been working and studying which has allowed me to develop both the technical and
+soft skills that I have been using while developing my projects
 
 ## Skills
-- Programming Languages: C++, C, Python
-- Technical Skills: Circuit analysis, Digital Logic Design, Operating Systems
+- Programming Languages: C/C++, Java, Kotlin, Python, Rust, Verilog
+- Technical Skills: Circuit Design, Breadboarding, Emedded Systems Development
 - Soft Skills: Communication, Teamwork, Organization, Time Management
 
 ## Projects
+I have been working on a few projects that showcase my interests and skills in embedded systems and circuit design. Some highlights include:
 
-### Circuit Analyzer
-I am currently developing a circuit analyzer—a simulation program aimed at boosting my coding organization skills, exploring 
-various data structures and algorithms, and deepening my understanding of circuits and their components. This project emphasizes 
-my knowledge in mathematics and problem solving
+### Designing a CPU
+I recently began exploring Verilog to develop circuit logic at the micron level. Using GTKWave, I can simulate bit-level operations and analyze their behavior. This project has been both fun and rewarding, and I plan to expand it into a fully functional CPU. My long-term goals include adding more features, optimizing the design, and maintaining an organized development process.
 
-[GitHub Repository](https://github.com/Simbyote/Circuit-Analyzer-Project)
+### Circuit Game -- Circuit Analyzer
+This project started as a personal challenge to deepen my understanding of circuit fundamentals while exploring advanced features of C/C++. The circuit emulator analyzes relationships between components in various diagrams. Over time, it has gone through several iterations, each becoming more organized and flexible. It’s been an excellent learning experience and a showcase of my growth as a developer.
 
-### Custom Operating System Development
-My ambition lies in developing a custom operating system. While I've only scratched the surface by implementing a basic bootloader 
-following the guide from wiki.osdev.org, I plan to return to this project after strengthening my skills through other endeavors. 
-I aim to resume development within the next year, once my Circuit Analyzer project reaches a stable state.
+### App Design/ Interface for Circuit Game
+To make the circuit game more user-friendly, I began creating a graphical interface. This led me to learn Kotlin and Android app development. While this project is currently in its early stages, it represents my interest in creating intuitive and accessible tools for others to use. I plan to revisit this once the underlying circuit game functionality is fully fleshed out.
 
 ## Contact Me
-- Email: criditz@gmail.com
-- LinkedIn: [Michael Orduna](https://www.linkedin.com/in/michael-orduna-5a19b6289/)
-
-## License
-All projects are available under the [MIT License](https://opensource.org/licenses/MIT).
+Feel Free to rach out!
+- Primary Email: criditz@gmail.com
