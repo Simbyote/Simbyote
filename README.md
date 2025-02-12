@@ -23,5 +23,5 @@ This project started as a personal challenge to deepen my understanding of circu
 To make the circuit game more user-friendly, I began creating a graphical interface. This led me to learn Kotlin and Android app development. While this project is currently in its early stages, it represents my interest in creating intuitive and accessible tools for others to use. I plan to revisit this once the underlying circuit game functionality is fully fleshed out.
 
 ## Contact Me
-Feel Free to rach out!
+Feel Free to reach out!
 - Primary Email: criditz@gmail.com
